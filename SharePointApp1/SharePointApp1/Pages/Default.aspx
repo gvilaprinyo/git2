@@ -34,7 +34,7 @@
             initializing...
         </p>
         <p>
-            Aaaaaaaaw...esome! Hehejojo
+            Aaaaaaaaw...esome! Hehejojo BORJA es un pendejoooo
         </p>
     </div>
 
