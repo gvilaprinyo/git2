@@ -34,7 +34,7 @@
             initializing...
         </p>
         <p>
-            Aaaaaaaaw...esome! Hola Javi
+            Aaaaaaaaw...esome! Hehejojo
         </p>
     </div>
 
