@@ -33,6 +33,9 @@
             <!-- El contenido siguiente se reemplazará con el nombre de usuario cuando ejecute la aplicación; vea App.js -->
             initializing...
         </p>
+        <p>
+            Aaaaaaaaw...esome!
+        </p>
     </div>
 
 </asp:Content>
